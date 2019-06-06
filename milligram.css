@@ -463,11 +463,6 @@ a {
   text-decoration: none;
 }
 
-a:focus,
-a:hover {
-  color: #fffaaa;
-}
-
 dl,
 ol,
 ul {
@@ -632,7 +627,7 @@ h4 {
   color: #fff;
   display: inline;
   line-height: 4rem;
-  padding: 1px 5px 1px 3px;
+  padding: 1px 3px 1px 3px;
 }
 
 /* beyond milligram */
